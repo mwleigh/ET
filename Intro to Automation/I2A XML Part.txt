@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<I2AXMLNode xmlns="IntroToAutomation">
+<DEPT>Electrical Automation</DEPT>
+<COURSE>Electrical Applications</COURSE>
+<UNIT>Manual Motor Controls</UNIT>
+<TITLE1>Pushbuttons</TITLE1>
+</I2AXMLNode>
