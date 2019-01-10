@@ -1,0 +1,12 @@
+ROBOCOPY U:\Electrical\Adam_Boczkiewicz "C:\Users\mwleigh\OD\Electrical Technology\Intro to Automation\Documents\2018 Fall Day\Students\Adam_Boczkiewicz" /MIR /Z /XA:H /W:5
+ROBOCOPY U:\Electrical\Alexander_Loynd "C:\Users\mwleigh\OD\Electrical Technology\Intro to Automation\Documents\2018 Fall Day\Students\Alexander_Loynd" /MIR /Z /XA:H /W:5
+ROBOCOPY U:\Electrical\Andrew_Hoemmen "C:\Users\mwleigh\OD\Electrical Technology\Intro to Automation\Documents\2018 Fall Day\Students\Andrew_Hoemmen" /MIR /Z /XA:H /W:5
+ROBOCOPY U:\Electrical\Caylen_Johnson "C:\Users\mwleigh\OD\Electrical Technology\Intro to Automation\Documents\2018 Fall Day\Students\Caylen_Johnson" /MIR /Z /XA:H /W:5
+ROBOCOPY U:\Electrical\Duncan_Sutton "C:\Users\mwleigh\OD\Electrical Technology\Intro to Automation\Documents\2018 Fall Day\Students\Duncan_Sutton" /MIR /Z /XA:H /W:5
+ROBOCOPY U:\Electrical\Helar_Herrera "C:\Users\mwleigh\OD\Electrical Technology\Intro to Automation\Documents\2018 Fall Day\Students\Helar_Herrera" /MIR /Z /XA:H /W:5
+ROBOCOPY U:\Electrical\Leo_Kniffen "C:\Users\mwleigh\OD\Electrical Technology\Intro to Automation\Documents\2018 Fall Day\Students\Leo_Kniffen" /MIR /Z /XA:H /W:5
+ROBOCOPY U:\Electrical\Lucas_Russell "C:\Users\mwleigh\OD\Electrical Technology\Intro to Automation\Documents\2018 Fall Day\Students\Lucas_Russell" /MIR /Z /XA:H /W:5
+ROBOCOPY U:\Electrical\Mitchell_Lowe "C:\Users\mwleigh\OD\Electrical Technology\Intro to Automation\Documents\2018 Fall Day\Students\Mitchell_Lowe" /MIR /Z /XA:H /W:5
+ROBOCOPY U:\Electrical\Myah_King "C:\Users\mwleigh\OD\Electrical Technology\Intro to Automation\Documents\2018 Fall Day\Students\Myah_King" /MIR /Z /XA:H /W:5
+ROBOCOPY U:\Electrical\Tanner_Baalman "C:\Users\mwleigh\OD\Electrical Technology\Intro to Automation\Documents\2018 Fall Day\Students\Tanner_Baalman" /MIR /Z /XA:H /W:5
+ROBOCOPY U:\Electrical\Tyler_Vogt "C:\Users\mwleigh\OD\Electrical Technology\Intro to Automation\Documents\2018 Fall Day\Students\Tyler_Vogt" /MIR /Z /XA:H /W:5
